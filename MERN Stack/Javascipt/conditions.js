@@ -42,3 +42,12 @@ console.log(root);
 if(Number.isInteger(root)){
     console.log("Number is perfect square");
 }
+
+
+// Day 2
+
+const nums = [34, 67, 56, 45, 2];
+
+for (let n of nums){
+    console.log(n);
+}
